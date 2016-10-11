@@ -7,5 +7,5 @@ FFmpeg 3.1.3 libraries built as .so for Android
 Supported Architecture
 ----
 * arm
-* armvv7
+* armv7
 * x86
